@@ -27,4 +27,4 @@ void coord_2d_midpoint(coord_2d_t* mid, const coord_2d_t* a, const coord_2d_t* b
 
 /* Take three 2D coordinates and return a double equal to the area of the
 triangle formed by those coordinates*/
-double coord_2d_area_triangle(const coord_2d_t* a, const coord_2d_t* b, const coord_2d_t* c)
+double coord_2d_area_triangle(const coord_2d_t* a, const coord_2d_t* b, const coord_2d_t* c);
